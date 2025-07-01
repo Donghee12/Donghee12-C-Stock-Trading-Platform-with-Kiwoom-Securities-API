@@ -28,7 +28,7 @@
 3. 
 **주의:** 주식 데이터를 가져오기 위해 `AxKHOpenAPI` 라이브러리가 필요합니다.
 
-### 2. 리포리지 클론
+### 2. 리포지토리  클론
 git clone https://github.com/YourRepo/stock-program.git
 cd stock-program
 
