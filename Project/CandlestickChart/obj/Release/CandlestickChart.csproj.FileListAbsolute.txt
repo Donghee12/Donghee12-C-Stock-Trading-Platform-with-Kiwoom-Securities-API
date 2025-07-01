@@ -1,0 +1,55 @@
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Release\CandlestickChart.exe.config
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Release\Interop.KHOpenAPILib.dll
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Release\AxInterop.KHOpenAPILib.dll
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Release\CandlestickChart.csproj.ResolveComReference.cache
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Release\CandlestickChart.exe
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Release\CandlestickChart.pdb
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Release\Interop.KHOpenAPILib.dll
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Release\AxInterop.KHOpenAPILib.dll
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Release\CandlestickChart.Form1.resources
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Release\CandlestickChart.Properties.Resources.resources
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Release\CandlestickChart.csproj.GenerateResource.Cache
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Release\CandlestickChart.exe
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Release\CandlestickChart.pdb
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Release\CandlestickChart.csprojResolveAssemblyReference.cache
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Release\JamongCommonLibrary.dll
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\bin\Release\CandlestickChart.exe.config
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\bin\Release\CandlestickChart.exe
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\bin\Release\CandlestickChart.pdb
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\bin\Release\JamongCommonLibrary.dll
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\bin\Release\AxInterop.KHOpenAPILib.dll
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\bin\Release\Interop.KHOpenAPILib.dll
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\Interop.KHOpenAPILib.dll
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\AxInterop.KHOpenAPILib.dll
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.Form1.resources
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.Properties.Resources.resources
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csproj.CopyComplete
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.exe
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.pdb
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Desktop\CandlestickChart_v3\CandlestickChart\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\bin\Release\CandlestickChart.exe.config
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\bin\Release\CandlestickChart.exe
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\bin\Release\CandlestickChart.pdb
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\bin\Release\HtmlAgilityPack.dll
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\bin\Release\JamongCommonLibrary.dll
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\bin\Release\AxInterop.KHOpenAPILib.dll
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\bin\Release\Interop.KHOpenAPILib.dll
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\bin\Release\HtmlAgilityPack.pdb
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\bin\Release\HtmlAgilityPack.xml
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csprojAssemblyReference.cache
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\Interop.KHOpenAPILib.dll
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\AxInterop.KHOpenAPILib.dll
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.Form1.resources
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.Properties.Resources.resources
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csproj.GenerateResource.cache
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.csproj.CopyComplete
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.exe
+C:\Users\user\Desktop\김동희\CandlestickChart_v3\CandlestickChart\obj\Release\CandlestickChart.pdb

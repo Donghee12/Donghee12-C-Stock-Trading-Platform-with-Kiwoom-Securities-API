@@ -1,0 +1,15 @@
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Debug\CandlestickChart.exe.config
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Debug\CandlestickChart.exe
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Debug\CandlestickChart.pdb
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Debug\Interop.KHOpenAPILib.dll
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Debug\AxInterop.KHOpenAPILib.dll
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Debug\CandlestickChart.csprojResolveAssemblyReference.cache
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Debug\Interop.KHOpenAPILib.dll
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Debug\AxInterop.KHOpenAPILib.dll
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Debug\CandlestickChart.csproj.ResolveComReference.cache
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Debug\CandlestickChart.Form1.resources
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Debug\CandlestickChart.Properties.Resources.resources
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Debug\CandlestickChart.csproj.GenerateResource.Cache
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Debug\CandlestickChart.exe
+c:\users\jun\documents\visual studio 2013\Projects\CandlestickChart\CandlestickChart\obj\Debug\CandlestickChart.pdb
+C:\Users\jun\Documents\Visual Studio 2013\Projects\CandlestickChart\CandlestickChart\bin\Debug\JamongCommonLibrary.dll
