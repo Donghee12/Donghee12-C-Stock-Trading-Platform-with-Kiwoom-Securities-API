@@ -1,1 +1,1 @@
-# Donghee12-C-Stock-Trading-Platform-with-Kiwoom-Securities-API
+# C# · 키움API를 활용한 주식 프로그램
