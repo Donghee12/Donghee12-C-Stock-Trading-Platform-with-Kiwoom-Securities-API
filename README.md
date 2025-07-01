@@ -1,0 +1,1 @@
+# Donghee12-C-Stock-Trading-Platform-with-Kiwoom-Securities-API
