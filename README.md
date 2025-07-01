@@ -22,6 +22,7 @@
 ---
 
 ## 설치 방법
+![설치 아이콘](https://img.icons8.com/color/48/000000/installation.png)
 
 1. 리포지토리를 클론하거나 다운로드하여 로컬 컴퓨터에 저장합니다.
 2. C# 및 .NET Framework가 설정된 개발 환경이 필요합니다.
@@ -33,6 +34,7 @@
 ---
 
 ## 사용법
+![사용법 아이콘](https://img.icons8.com/color/48/000000/instruction.png)
 
 ### 1. **애플리케이션 실행**
 애플리케이션을 실행하면 주식 검색 및 관리 인터페이스가 표시됩니다.
@@ -49,18 +51,18 @@ KOSPI, KOSDAQ, ELW 등을 필터링하여 종목을 조회할 수 있습니다.
 ### 5. **주식 매수/매도**
 주식을 매수하고 매도하는 기능을 제공합니다.  
 매수 및 매도 가격과 수량을 입력하고 주문을 생성할 수 있습니다.  
-   - ![매수/매도 아이콘](https://img.icons8.com/ios/452/buy.png)
+   - ![매수/매도 아이콘](https://img.icons8.com/color/48/000000/hand-with-money.png)
 
 ### 6. **주식 정정 기능**
 이미 생성된 매수/매도 주문을 정정하거나 취소할 수 있습니다.
 
 ### 7. **뉴스 크롤링**
 주식과 관련된 최신 뉴스 데이터를 크롤링하여 표시합니다.  
-   - ![뉴스 아이콘](https://img.icons8.com/ios/452/news.png)
+   - ![뉴스 아이콘](https://img.icons8.com/color/48/000000/news.png)
 
 ### 8. **차트 보기**
 주식의 일봉, 주봉, 월봉, 분봉 및 틱 차트를 시각화하여 시세를 확인할 수 있습니다.  
-   - ![차트 아이콘](https://img.icons8.com/ios/452/line-chart.png)
+   - ![차트 아이콘](https://img.icons8.com/color/48/000000/line-chart.png)
 
 ### 9. **관심 종목 관리**
 관심 있는 종목을 저장하고 관리하는 기능을 제공합니다.
@@ -68,9 +70,10 @@ KOSPI, KOSDAQ, ELW 등을 필터링하여 종목을 조회할 수 있습니다.
 ---
 
 ## 기능
+![기능 아이콘](https://img.icons8.com/color/48/000000/features.png)
 
 - **주식 검색**: 주식명을 입력하여 종목을 검색하거나 종목 코드로 검색할 수 있습니다.  
-   - ![검색 아이콘](https://img.icons8.com/ios/452/search.png)
+   - ![검색 아이콘](https://img.icons8.com/color/48/000000/search.png)
   
 - **시장 필터링**: KOSPI, KOSDAQ, ELW 시장을 기준으로 종목을 필터링하여 볼 수 있습니다.
   
@@ -87,6 +90,7 @@ KOSPI, KOSDAQ, ELW 등을 필터링하여 종목을 조회할 수 있습니다.
 ---
 
 ## 필수 조건
+![필수 아이콘](https://img.icons8.com/color/48/000000/requirements.png)
 
 - **AxKHOpenAPI**: 주식 데이터를 가져오기 위해 `AxKHOpenAPI` 라이브러리가 필요합니다.
   
@@ -95,6 +99,7 @@ KOSPI, KOSDAQ, ELW 등을 필터링하여 종목을 조회할 수 있습니다.
 ---
 
 ## 설정
+![설정 아이콘](https://img.icons8.com/color/48/000000/settings.png)
 
 `AxKHOpenAPI`와의 연결을 위해 API 키 및 인증 정보가 필요합니다. 이 설정을 올바르게 해주세요.
 
@@ -107,6 +112,7 @@ KOSPI, KOSDAQ, ELW 등을 필터링하여 종목을 조회할 수 있습니다.
 ---
 
 ## 문서화
+![문서화 아이콘](https://img.icons8.com/color/48/000000/technical-support.png)
 
 애플리케이션은 Windows Forms를 사용하여 다양한 UI 컴포넌트를 관리합니다. 주요 파일 및 그 기능은 다음과 같습니다:
 
@@ -123,6 +129,7 @@ KOSPI, KOSDAQ, ELW 등을 필터링하여 종목을 조회할 수 있습니다.
 ---
 
 ## 예시
+![예시 아이콘](https://img.icons8.com/color/48/000000/examples.png)
 
 1. **KOSPI 종목 검색**: "거래소" 버튼을 클릭하여 KOSPI 종목을 조회합니다.
   
@@ -139,6 +146,7 @@ KOSPI, KOSDAQ, ELW 등을 필터링하여 종목을 조회할 수 있습니다.
 ---
 
 ## 문제 해결
+![문제 해결 아이콘](https://img.icons8.com/color/48/000000/maintenance.png)
 
 - **API 연결 문제**: `AxKHOpenAPI`가 올바르게 설치되어 있는지, 인증 정보가 정확한지 확인하세요.
   
@@ -149,6 +157,7 @@ KOSPI, KOSDAQ, ELW 등을 필터링하여 종목을 조회할 수 있습니다.
 ---
 
 ## 기여자
+![기여자 아이콘](https://img.icons8.com/color/48/000000/contributors.png)
 
 - **개발자**: [개발자 이름 또는 조직명]
   
@@ -157,13 +166,6 @@ KOSPI, KOSDAQ, ELW 등을 필터링하여 종목을 조회할 수 있습니다.
 ---
 
 ## 라이선스
+![라이선스 아이콘](https://img.icons8.com/color/48/000000/license.png)
 
 이 프로젝트는 [MIT 라이선스](LICENSE) 하에 라이선스가 부여됩니다.
-
----
-
-### 스타일링 설명
-
-- 각 기능마다 관련 아이콘을 추가하여 시각적인 구분을 하였습니다.
-- 아이콘은 모두 **Icons8**에서 가져왔으며, 사용자가 각 기능을 더 직관적으로 이해할 수 있도록 도와줍니다.
-- 목차를 추가하여 사용자가 필요한 정보를 빠르게 찾아볼 수 있도록 구성하였습니다.
